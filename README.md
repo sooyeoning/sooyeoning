@@ -1,6 +1,5 @@
 
 <!--
-### Hi there 👋
 **sooyeoning/sooyeoning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,7 +22,7 @@ Backend Web developer from seoul, Republic of Korea.
 
 <!-- 나에 대한 설명 --><!-- 글머리: <h1># <h2>##  -->
 ## About me🌱    
-I’m currently learning Basic Programming skills like HTML, CSS, Javascript, Jquery, SpringBoot, Mysql. 
+I’m currently learning Basic Programming skills like HTML, CSS, Javascript, Jquery, React, Java, SpringBoot, Mysql.
 
 <!-- 연락 정보 --><!-- email, url 자동 하이퍼링크-->
 ## Contact with me📫
@@ -39,7 +38,8 @@ Web development
 
 <!-- 사용할 수 있는 언어 및 툴 -->
 ## Languages and Tools  
-HTML, CSS, Javascript, Spring boot, Mysql, sts4
+HTML, CSS, Javascript, Jquery, Java, SpringBoot, Mysql
+
 <!-- 2.뱃지 https://shields.io/-->
 <!-- ![Static Badge](https://img.shields.io/badge/[badgeContent:표시할이름-색상]?style=[plastic, flat, flat-square, for-the-badge, social]&logo=[기술스택아이콘]&logoColor=[로고색]) -->
 ![Static Badge](https://img.shields.io/badge/front-javascript-yellow)
@@ -49,7 +49,14 @@ HTML, CSS, Javascript, Spring boot, Mysql, sts4
 
 <!-- 3 이미지 https://devicon.dev/
 ![대체 텍스트(alt)](이미지_소스_URL "이미지 설명(title)")-->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px" height="70px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" height="70px"/> <!-- 이미지 사이즈 수정 가능 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="70px" height="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="70px" height="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="70px" height="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70px" height="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" height="70px"/>
+                                                  
 <!-- ![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg "java)")--> <!--이미지 사이즈 수정 불가-->
 
 <!-- 기타 (github 통계) https://github.com/anuraghazra/github-readme-stats-->
