@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <!-- 주석 --> <!--글씨강조 **--> <!--줄바꿈 <br> 혹은 스페이바 2번 이상-->
 <!-- 인사말 -->
 **Hi there** 👋  
-I'm Kim Sooyeon. Backend Web developer from seoul, Republic of Korea. 
+I'm Kim Sooyeon.   
+Backend Web developer from seoul, Republic of Korea. 
 
 <!-- 나에 대한 설명 --><!-- 글머리: <h1># <h2>##  -->
 ## About me🌱    
@@ -34,7 +35,7 @@ Web development
 
 <!-- 최근 프로젝트 --><!-- [표시내용](링크url) -->
 ## Latest Projects
-[1. Withtravel](https://github.com/sooyeoning/Final_Project.git)
+[Withtravel(여행지 추천 서비스)](https://github.com/sooyeoning/Final_Project.git)
 
 <!-- 사용할 수 있는 언어 및 툴 -->
 ## Languages and Tools  
