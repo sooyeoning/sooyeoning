@@ -38,32 +38,34 @@ Web development
 
 <!-- 사용할 수 있는 언어 및 툴 -->
 ## Languages and Tools  
-HTML, CSS, Javascript, Jquery, Java, SpringBoot, Mysql
 
 <!-- 2.뱃지 https://shields.io/-->
 <!-- ![Static Badge](https://img.shields.io/badge/[badgeContent:표시할이름-색상]?style=[plastic, flat, flat-square, for-the-badge, social]&logo=[기술스택아이콘]&logoColor=[로고색]) -->
-![Static Badge](https://img.shields.io/badge/front-javascript-yellow)
-![Static Badge](https://img.shields.io/badge/HTML-pink)
-![Static Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/front-JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/front-HTML5-pink)
+![Static Badge](https://img.shields.io/badge/front-CSS3-blue)
+![Static Badge](https://img.shields.io/badge/front-jQuery-blue)   
+![Static Badge](https://img.shields.io/badge/back-Java-navy)
+![Static Badge](https://img.shields.io/badge/back-SpringBoot-Sushi)   
+![Static Badge](https://img.shields.io/badge/db-MySQL-blue)
 
 <!-- 3 이미지 https://devicon.dev/
 ![대체 텍스트(alt)](이미지_소스_URL "이미지 설명(title)")-->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px" height="70px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" height="70px"/> <!-- 이미지 사이즈 수정 가능 -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="70px" height="70px"/>
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px" height="70px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70px" height="70px"/> --><!-- 이미지 사이즈 수정 가능 -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="70px" height="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="70px" height="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="70px" height="70px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70px" height="70px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" height="70px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" height="70px"/> -->
                                                   
 <!-- ![java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg "java)")--> <!--이미지 사이즈 수정 불가-->
 
-<!-- 기타 (github 통계) https://github.com/anuraghazra/github-readme-stats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeoning&show_icons=true&theme=dark)
+<!-- 기타 (github 통계) https://github.com/anuraghazra/github-readme-stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooyeoning&show_icons=true&theme=dark)-->
 
-<!-- 기타 (github 사용 언어 그래프) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeoning&layout=compact)
+<!-- 기타 (github 사용 언어 그래프) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooyeoning&layout=compact)-->
 
-<!-- 방문자수 https://hits.seeyoufarm.com/ -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoning%2Fhit-counter&count_bg=%23BBF7E7&title_bg=%23FBE9E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- 방문자수 https://hits.seeyoufarm.com/ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooyeoning%2Fhit-counter&count_bg=%23BBF7E7&title_bg=%23FBE9E9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
