@@ -22,7 +22,7 @@ Backend Web developer from seoul, Republic of Korea.
 
 <!-- 나에 대한 설명 --><!-- 글머리: <h1># <h2>##  -->
 ## About me🌱    
-I’m currently learning Basic Programming skills like HTML, CSS, Javascript, Jquery, React, Java, SpringBoot, Mysql.
+I’m currently learning Basic Programming skills like HTML, CSS, Javascript, Jquery, Java, SpringBoot, Mysql.
 
 <!-- 연락 정보 --><!-- email, url 자동 하이퍼링크-->
 ## Contact with me📫
